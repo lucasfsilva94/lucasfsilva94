@@ -49,3 +49,8 @@
     src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="VS code" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+  
+   <h2> 💻 Stats </h2>
+  
+  ![Some github stats](https://github-readme-stats.vercel.app/api?username=lucasfsilva94&show_icons=true&count_private=true)
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfsilva94)  
