@@ -5,7 +5,7 @@
 
 <br>
 
-<h2>🛠 Technologies</h2>
+<h2>🧪 Technologies</h2>
 
 <div style="display: inline_block">
   <h3> Back-end </h3>
