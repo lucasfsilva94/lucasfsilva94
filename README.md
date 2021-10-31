@@ -57,8 +57,6 @@
     alt="bootstrap">
 </div>
 
----
-
 <h3>🖥️ Back-End</h3>
 <div>
   <img 
