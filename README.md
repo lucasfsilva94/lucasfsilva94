@@ -3,11 +3,6 @@
 </div>
 
 <h1  align="center"> Hi! I’m Lucas Faria 👋</h1>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22107794/139579551-e5b4e690-718e-4227-b31e-dadacfc42b52.gif" width="400px" />
 <br>
