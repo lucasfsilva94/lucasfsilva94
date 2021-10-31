@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139578701-8e36e1c6-8105-4df9-ae4d-371c94f52fac.gif"
-    width="822px"
-    height="355px">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 
 <h1  align="center"> Hi! I’m Lucas Faria 👋</h1>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22107794/139579551-e5b4e690-718e-4227-b31e-dadacfc42b52.gif" width="400px" />
-
+<br>
 <br>
 
 ### 👨🏻‍💻 About Me:
