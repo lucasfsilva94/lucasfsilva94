@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22107794/139581022-d523608f-0584-467b-a781-cc9229463e2f.gif" width="350px" />
 
-### 👨🏻‍💻 About Me:
+<h3 align="left">👨🏻‍💻 About Me:</h3>
 
 - 💻 Back-end developer .NET.
 - 📌 I live in São Paulo-BR.
