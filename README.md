@@ -75,16 +75,16 @@
 </div>
 
 ---
-<h2>📈 <strong>GitHub Stats:</strong></h2>  
+<h2>📈 <strong>GitHub Analytics:</strong></h2>  
 <div align="center">
   <img 
     width="400" 
     height="180px" 
     src="https://github-readme-stats.vercel.app/api?username=lucasfsilva94&show_icons=true&count_private=true" 
-    alt="lucas-faria"/>
+    alt="lucas faria github stats"/>
   <img 
     width="400" 
     height="170px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfsilva94&layout=compact" 
-    alt="lucas-faria" />
+    alt="lucas faria top langs" />
 </div>
