@@ -79,12 +79,12 @@
 <div align="center">
   <img 
     width="400" 
-    height="180em" 
+    height="180px" 
     src="https://github-readme-stats.vercel.app/api?username=lucasfsilva94&show_icons=true&count_private=true" 
     alt="lucas-faria"/>
   <img 
     width="400" 
-    height="180em" 
+    height="170px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfsilva94&layout=compact" 
     alt="lucas-faria" />
 </div>
