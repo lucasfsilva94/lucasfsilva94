@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻 About Me:
 
-- 💻 Back-end developer ASP.NET.
+- 💻 Back-end developer .NET.
 - 📌 I live in São Paulo-BR.
 - 🚀 Exploring new technologies and developing software solutions.
 - 👨‍💻 Currently learning .Net, React, React Native and Clean Architecture.
