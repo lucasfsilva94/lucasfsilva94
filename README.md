@@ -4,56 +4,99 @@
     height="355px">
 </div>
 
+<h1  align="center"> Hi! I’m Lucas Faria 👋</h1>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22107794/139579551-e5b4e690-718e-4227-b31e-dadacfc42b52.gif" width="400px" />
+
 <br>
 
-<h2>🧪 Technologies</h2>
+### 👨🏻‍💻 About Me:
 
-<div style="display: inline_block">
-  <h3> Back-end </h3>
-  <img align="center" alt="Csharp" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="HTML" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
-  <hr>
-  
-  <h3> Front-end </h3>
-  <img align="center" alt="HTML" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Angular" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="React" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="React" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  
-  <hr>
-  
-  <h3> UI/UX Designer </h3>
-  <img align="center" alt="figma" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
-  
-  <hr>
-  
-  <h3> Mobile </h3>  
-  <img align="center" alt="React-Native" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <hr>
-  
-  <h3> IDE </h3>
-  <img align="center" alt="Visual Studio" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="VS code" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
-  
-   <h2> 💻 Stats </h2>
-  
-  ![Some github stats](https://github-readme-stats.vercel.app/api?username=lucasfsilva94&show_icons=true&count_private=true)
-  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfsilva94)  
+- 💻 Back-end developer ASP.NET.
+- 📌 I live in São Paulo-BR.
+- 🚀 Exploring new technologies and developing software solutions.
+- 👨‍💻 Currently learning .Net, React, React Native and Clean Architecture.
+- 🏎️ Enthusiast in motorsport
+- 🎮 I like to play some fps and racing games 
+
+<h3 align="left">💬 How to reach me:</h3>
+<div>
+   <a href="https://www.linkedin.com/in/lucasfariasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:lucasfsilva94@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  </div>
+  <br>
+  <br>
+
+-------
+
+<h3>🖥️ Front-End</h3>
+<div>
+  <img 
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" 
+    alt="html">
+  <img 
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" 
+    alt="css">
+  <img 
+    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" 
+    alt="javascript">
+  <img 
+    src="https://img.shields.io/badge/React-0D0627?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" 
+    alt="react">
+  <img 
+    src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
+    alt="angular">  
+  <img 
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" 
+    alt="typescript">
+  <img 
+    src="https://img.shields.io/badge/Next-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF" 
+    alt="next">  
+  <img 
+    src="https://img.shields.io/badge/BootStrap-6E42A2?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" 
+    alt="bootstrap">
+</div>
+
+---
+
+<h3>🖥️ Back-end</h3>
+<div>
+  <img 
+    src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" 
+    alt=".NET">
+  <img 
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" 
+    alt="node.js">  
+</div>
+
+<h3>🎨 UI/UX Designer</h3>
+<div>
+  <img 
+    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
+    alt="figma">  
+</div>
+
+<h3>📱 Mobile</h3>
+<div>
+  <img 
+    src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" 
+    alt="xamarin">  
+  <img 
+    src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+    alt="react native">    
+</div>
+
+---
+<h2>📈 <strong>GitHub Stats:</strong></h2>  
+<div align="center">
+  <img 
+    width="400" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=lucasfsilva94&show_icons=true&count_private=true" 
+    alt="lucas-faria"/>
+  <img 
+    width="400" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfsilva94&layout=compact" 
+    alt="lucas-faria" />
+</div>
