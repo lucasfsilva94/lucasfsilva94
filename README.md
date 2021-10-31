@@ -23,6 +23,7 @@
   <br>
   <br>
 
+🛠  Tech Stack
 -------
 
 <h3>🖥️ Front-End</h3>
@@ -74,7 +75,6 @@
     alt="react native">    
 </div>
 
----
 <h2>📈 <strong>GitHub Analytics:</strong></h2>  
 <div align="center">
   <img 
