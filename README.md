@@ -4,7 +4,7 @@
 
 <h1  align="center"> Hi! I’m Lucas Faria 👋</h1>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22107794/139579551-e5b4e690-718e-4227-b31e-dadacfc42b52.gif" width="350px" height="300px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22107794/139581022-d523608f-0584-467b-a781-cc9229463e2f.gif" width="350px" />
 
 ### 👨🏻‍💻 About Me:
 
