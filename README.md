@@ -4,7 +4,7 @@
 
 <h1  align="center"> Hi! I’m Lucas Faria 👋</h1>
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635349855673.png" width="400px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22107794/139579551-e5b4e690-718e-4227-b31e-dadacfc42b52.gif" width="350px" height="300px" />
 
 ### 👨🏻‍💻 About Me:
 
