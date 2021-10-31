@@ -9,7 +9,7 @@
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
 - 💻 Back-end developer .NET.
-- 📌 I live in São Paulo-BR.
+- 📌 I live in São Paulo - Brazil.
 - 🚀 Exploring new technologies and developing software solutions.
 - 👨‍💻 Currently learning .Net, React, React Native and Clean Architecture.
 - 🏎️ Enthusiast in motorsport
