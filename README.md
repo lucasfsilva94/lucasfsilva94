@@ -69,7 +69,7 @@
     alt="node.js">  
 </div>
 
-<h3>🎨 UI/UX Designer</h3>
+<h3>🎨 Designer</h3>
 <div>
   <img 
     src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
