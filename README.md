@@ -12,7 +12,7 @@
 - 📌 I live in São Paulo - Brazil.
 - 🚀 Exploring new technologies and developing software solutions.
 - 👨‍💻 Currently learning .Net, React, React Native and Clean Architecture.
-- 🏎️ Enthusiast in motorsport
+- 🏎️ Enthusiast in motorsport.
 
 <h3 align="left">💬 How to reach me:</h3>
 <div>
