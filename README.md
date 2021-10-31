@@ -45,12 +45,6 @@
   <img 
     src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" 
     alt="typescript">
-  <img 
-    src="https://img.shields.io/badge/Next-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF" 
-    alt="next">  
-  <img 
-    src="https://img.shields.io/badge/BootStrap-6E42A2?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" 
-    alt="bootstrap">
 </div>
 
 <h3>🖥️ Back-End</h3>
