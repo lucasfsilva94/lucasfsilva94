@@ -80,11 +80,11 @@
   <img 
     width="400" 
     height="180px" 
-    src="https://github-readme-stats.vercel.app/api?username=lucasfsilva94&show_icons=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=lucasfsilva94&show_icons=true&count_private=true&theme=dracula" 
     alt="lucas faria github stats"/>
   <img 
     width="400" 
     height="170px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfsilva94&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfsilva94&layout=compact&theme=dracula" 
     alt="lucas faria top langs" />
 </div>
