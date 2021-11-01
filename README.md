@@ -76,15 +76,17 @@
 </div>
 
 <h2>📈 <strong>GitHub Analytics:</strong></h2>  
-<div align="center">
+<div align="left">
   <img 
     width="400" 
     height="180px" 
     src="https://github-readme-stats.vercel.app/api?username=lucasfsilva94&show_icons=true&count_private=true&theme=dracula" 
     alt="lucas faria github stats"/>
+</div>
+<div align="left"> 
   <img 
     width="400" 
-    height="170px" 
+    height="190px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfsilva94&layout=compact&theme=dracula" 
-    alt="lucas faria top langs" />
+    alt="lucas faria most used languages" />
 </div>
