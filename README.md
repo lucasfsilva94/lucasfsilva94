@@ -44,9 +44,13 @@
   <img 
     src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" 
     alt="typescript">
-</div>
+</div>  
 
-<h3>🖥️ Back-End</h3>
+<h3> 
+<img width="25" height="25"
+    src="https://user-images.githubusercontent.com/22107794/139607753-c53fc8a5-b610-4f43-8b46-8e2e18b76e5d.png" 
+    alt="backend">  
+  Back-End</h3>
 <div>
   <img 
     src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" 
