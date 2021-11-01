@@ -51,7 +51,10 @@
     src="https://user-images.githubusercontent.com/22107794/139607753-c53fc8a5-b610-4f43-8b46-8e2e18b76e5d.png" 
     alt="backend">  
   Back-End</h3>
-<div>
+<div>  
+  <img 
+    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" 
+    alt="C#">  
   <img 
     src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" 
     alt=".NET">
