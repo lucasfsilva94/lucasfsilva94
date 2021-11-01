@@ -36,6 +36,9 @@
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" 
     alt="javascript">
   <img 
+    src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
+    alt="jquery">      
+  <img 
     src="https://img.shields.io/badge/React-0D0627?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" 
     alt="react">
   <img 
@@ -44,9 +47,6 @@
   <img 
     src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" 
     alt="typescript">
-  <img 
-    src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
-    alt="jquery">    
 </div>  
 
 <h3> 
@@ -56,11 +56,11 @@
   Back-End</h3>
 <div>  
   <img 
+    src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" 
+    alt=".NET">  
+  <img 
     src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" 
     alt="C#">  
-  <img 
-    src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" 
-    alt=".NET">
   <img 
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" 
     alt="node.js">  
