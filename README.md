@@ -44,6 +44,9 @@
   <img 
     src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" 
     alt="typescript">
+  <img 
+    src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
+    alt="jquery">    
 </div>  
 
 <h3> 
