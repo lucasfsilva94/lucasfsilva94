@@ -84,17 +84,10 @@
 </div>
 
 <h2>📈 <strong>GitHub Analytics:</strong></h2>  
+
 <div align="left">
-  <img 
-    width="400" 
-    height="180px" 
-    src="https://github-readme-stats.vercel.app/api?username=lucasfsilva94&show_icons=true&count_private=true&theme=dracula" 
-    alt="lucas faria github stats"/>
-</div>
-<div align="left"> 
-  <img 
-    width="400" 
-    height="190px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfsilva94&layout=compact&theme=dracula" 
-    alt="lucas faria most used languages" />
-</div>
+  <a href="https://github.com/lucasfsilva94">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfsilva94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfsilva94&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+ </div>
