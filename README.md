@@ -50,7 +50,7 @@
 </div>  
 
 <h3> 
-<img width="25" height="25" align="center"
+<img width="23" height="23" align="center"
     src="https://user-images.githubusercontent.com/22107794/139607753-c53fc8a5-b610-4f43-8b46-8e2e18b76e5d.png" 
     alt="backend">  
   Back-End</h3>
