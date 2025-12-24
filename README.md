@@ -86,7 +86,7 @@
 <h2>📈 <strong>GitHub Analytics:</strong></h2>  
 
 <div align="left">
-  <a href="https://github.com/lucasfsilva94">
+  <a>
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lucasfsilva94&show_icons=true&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasfsilva94&layout=compact&theme=dracula"/>
   </a>
