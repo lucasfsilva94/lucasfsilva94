@@ -8,10 +8,9 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-- 💻 Back-end developer .NET.
+- 💻 Software Engineer.
 - 📌 I live in São Paulo - Brazil.
 - 🚀 Exploring new technologies and developing software solutions.
-- 👨‍💻 Currently learning .Net, React, React Native and Clean Architecture.
 - 🏎️ Enthusiast in motorsport.
 
 <h3 align="left">💬 How to reach me:</h3>
@@ -62,8 +61,11 @@
     src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" 
     alt="C#">  
   <img 
+    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" 
+    alt="python">   
+  <img 
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" 
-    alt="node.js">  
+    alt="node.js">   
 </div>
 
 <h3>🎨 Designer</h3>
@@ -75,9 +77,6 @@
 
 <h3>📱 Mobile</h3>
 <div>
-  <img 
-    src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" 
-    alt="xamarin">  
   <img 
     src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
     alt="react native">    
