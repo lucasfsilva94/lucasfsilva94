@@ -85,8 +85,6 @@
 <h2>📈 <strong>GitHub Analytics:</strong></h2>  
 
 <div align="left">
-  <a>
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lucasfsilva94&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasfsilva94&layout=compact&theme=dracula"/>
-  </a>
- </div>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=lucasfsilva94&theme=dracula" alt="GitHub Streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasfsilva94&theme=dracula" alt="Top Languages by Commit" />
+</div>
