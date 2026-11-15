@@ -85,7 +85,7 @@
 <h2>📈 <strong>GitHub Analytics:</strong></h2>  
 
 <div align="left">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasfsilva94&theme=dracula" alt="Top Languages by Commit" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasfsilva94&theme=dracula" alt="Top Languages by Repo" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasfsilva94&theme=dracula&utcOffset=-3" alt="Productive Time" />
+  <img width="38%" src="https://streak-stats.demolab.com/?user=lucasfsilva94&theme=dracula" alt="GitHub Streak" />
+  <img width="29%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasfsilva94&theme=dracula" alt="Stats" />
+  <img width="29%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasfsilva94&theme=dracula" alt="Top Languages by Commit" />
 </div>
